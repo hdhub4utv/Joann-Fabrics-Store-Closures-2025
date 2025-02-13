@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hdhub4utv.github.io/Joann-Fabrics-Store-Closures-2025/sitemap.xml
